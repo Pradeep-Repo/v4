@@ -25,6 +25,8 @@ public class V4Application {
     //u2-c7
     //m1-c11
     //m1-c12
+    //u2-c8
+    //u2-c9
     //m1-c13
     //m1-c14
 
